@@ -48,7 +48,7 @@ Install missing modules using:
 📦 Usage:
 -----------------------------------------------------
 1. Clone the repository:
-    git clone https://github.com/your-username/ghost-toolkit.git
+    git clone https://github.com/itg6j/Ghost-web.git
 
 2. Navigate to the directory:
     cd ghost-toolkit
@@ -61,10 +61,10 @@ Install missing modules using:
 -----------------------------------------------------
 📚 Notes:
 -----------------------------------------------------
-- Make sure you have `nmap` and `ffmpeg` installed on your system.
+- Make sure you have `nmap` installed on your system.
 - Some features may require **root access** (e.g., MAC changer, WiFi info).
 - Use responsibly and only on machines/networks you own or are authorized to test.
 
 -----------------------------------------------------
-© 2025 by Saif Abu Sunaina
+© 2025 by Ghost
 -----------------------------------------------------
